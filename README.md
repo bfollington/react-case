@@ -1,4 +1,4 @@
-# React Conditionals
+# React Case
 
 Sick of ternary operators and if-else's above your render method? Want declarative logic without a bizarre syntax?
 

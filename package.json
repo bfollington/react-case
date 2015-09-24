@@ -1,12 +1,12 @@
 {
-  "name": "react-conditional",
-  "description": "Add templating logic through a JSX api.",
+  "name": "react-case",
+  "description": "Inline, declarative logic for React.",
   "version": "1.0.0",
   "author": "Ben Follington",
   "contributors": [],
   "license": "MIT",
-  "repository": "bfollington/react-conditional",
-  "homepage": "https://github.com/bfollington/react-conditional",
+  "repository": "bfollington/react-case",
+  "homepage": "https://github.com/bfollington/react-case",
   "keywords": [
     "react"
   ],
