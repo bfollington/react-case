@@ -15,7 +15,7 @@ Sick of ternary operators and if-else's above your render method? Want declarati
 
     var React = require("react");
 
-    var conditionals = require("./index.js");
+    var conditionals = require("react-case");
     var Condition = conditionals.Condition;
     var Case = conditionals.Case;
 
