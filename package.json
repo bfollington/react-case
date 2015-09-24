@@ -1,0 +1,29 @@
+{
+  "name": "react-conditional",
+  "description": "Add templating logic through a JSX api.",
+  "version": "1.0.0",
+  "author": "Ben Follington",
+  "contributors": [],
+  "license": "MIT",
+  "repository": "bfollington/react-conditional",
+  "homepage": "https://github.com/bfollington/react-conditional",
+  "keywords": [
+    "react"
+  ],
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "peerDependencies": {
+    "react": "^0.13.3"
+  },
+  "devDependencies": {
+    "babel": "^5.8.23",
+    "babel-core": "^5.8.25",
+    "babel-loader": "^5.3.2",
+    "webpack": "^1.12.2"
+  },
+  "scripts": {
+    "build": "babel lib/Condition.jsx > index.js",
+    "test-build": "webpack"
+  }
+}
